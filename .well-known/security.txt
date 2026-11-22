@@ -1,0 +1,4 @@
+Contact: mailto:soporte@grupokesher.com
+Expires: 2027-12-31T23:59:00.000Z
+Preferred-Languages: es, en
+Canonical: https://abcsweetcake.com/.well-known/security.txt

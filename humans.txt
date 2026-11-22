@@ -1,0 +1,10 @@
+/* EQUIPO */
+Obrador artesanal: ABC Sweet Cake
+Ubicacion: Esquivias, Toledo (Espana)
+Contacto: WhatsApp +34 621 03 86 40 · Instagram @abcsweetcake
+Web: https://abcsweetcake.com
+/* TECNOLOGIA */
+Sitio estatico HTML5 + CSS3 + WebP, servido por CDN (GitHub Pages / Fastly).
+Analitica: Google Analytics 4. Datos estructurados: Schema.org (Bakery, Service, FAQPage).
+/* AGRADECIMIENTOS */
+Gracias a las 69 familias que nos han dejado su resena en Google.

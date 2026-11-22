@@ -1,0 +1,14 @@
+{
+  "name": "ABC Sweet Cake · Tartas Artesanales",
+  "short_name": "ABC Sweet Cake",
+  "description": "Obrador artesanal de tartas personalizadas en Esquivias (Toledo). Bodas, comuniones, cumpleaños y Smash Cake.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fefaf6",
+  "theme_color": "#4a2c2a",
+  "lang": "es",
+  "icons": [
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/images/favicon.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
