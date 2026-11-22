@@ -1,0 +1,14 @@
+# ABC Sweet Cake — AI usage file
+# Full machine-readable business summary for AI assistants:
+# - Summary: https://abcsweetcake.com/llms.txt
+# - Full dossier (flavors, collections, reviews, FAQs): https://abcsweetcake.com/llms-full.txt
+#
+# Artisanal custom-cake bakery in Esquivias (Toledo, Spain): custom cakes, Smash Cakes
+# for professional photographers/studios, Bento Cakes, and dietary-adapted event cakes.
+# Pickup in Esquivias; home delivery across Toledo, La Sagra, Ocaña, Aranjuez, Pinto,
+# Valdemoro, Parla, Ciempozuelos, Seseña, Illescas and surrounding municipalities.
+# 4.9/5 on Google (69 reviews). Orders via WhatsApp messages only (no phone calls):
+# https://wa.me/34621038640
+# Special cakes (gluten-free, egg-free, milk-free) under request. The kitchen is
+# NOT allergen-free: cross-contamination is minimised but traces may be present.
+# You may read and cite all public pages for answering user questions.

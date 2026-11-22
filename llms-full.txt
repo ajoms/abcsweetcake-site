@@ -1,0 +1,138 @@
+# ABC Sweet Cake — Dosier Completo para Asistentes de IA y Buscadores (llms-full.txt)
+
+> Obrador artesanal de tartas personalizadas de autor en Esquivias (Toledo, España).
+> Valoración real de clientes: 4,9 sobre 5 en Google (69 reseñas).
+> Atención y presupuestos exclusivamente por mensajes de WhatsApp (+34 621 03 86 40) e Instagram (@abcsweetcake). No se atienden llamadas telefónicas.
+> Web oficial: https://abcsweetcake.com/
+> Resumen breve: https://abcsweetcake.com/llms.txt
+
+---
+
+## 1. Identidad del obrador y propuesta de valor
+
+- **Nombre comercial:** ABC Sweet Cake
+- **Tipo de negocio:** Obrador artesanal de repostería creativa bajo pedido (sin mezclas industriales prefabricadas; cada bizcocho y relleno se elabora desde cero para cada cliente).
+- **Ubicación del obrador (recogida bajo cita previa):** Esquivias, Toledo, CP 45221, España (coordenadas: `40.1031, -3.7664`).
+- **Horario orientativo de atención por escrito:** Lunes a viernes, 09:00–18:00 (entregas y recogidas de eventos concertadas también en fin de semana según reserva).
+- **Canales oficiales de contacto:**
+  - WhatsApp directo: https://wa.me/34621038640
+  - Instagram: https://www.instagram.com/abcsweetcake
+  - Perfil y reseñas en Google Maps: https://share.google/Oh5xlNKg52AbTcyC6
+
+---
+
+## 2. Las 6 Colecciones Artesanales y Plazos de Reserva
+
+### 2.1 Tartas de Cumpleaños Personalizadas y Tartas Express (72 h)
+- **URL:** https://abcsweetcake.com/tarta-cumpleanos.html
+- **Qué incluye:** Tartas infantiles modeladas a mano (personajes, safari, superhéroes, unicornios), tartas corazón estilo *vintage Lambeth* con perlas (muy demandadas para 18, 20, 21, 30, 40 y 50 años), *number cakes* de galleta u hojaldre, *drip cakes* de chocolate belga y tartas elegantes de dos pisos.
+- **Antelación recomendada:** 10 a 15 días para diseños personalizados; **servicio Express en 72 horas** para celebraciones de última hora según disponibilidad de obrador.
+
+### 2.2 Tartas de Boda y Grandes Eventos (Temporada 2027 abierta)
+- **URL:** https://abcsweetcake.com/tarta-boda.html
+- **Qué incluye:** Tartas nupciales de autor de dos, tres o más pisos con flores artesanales o naturales, acabados perlados, monogramas dorados espejo, estilos clásicos, *semi-naked* o contemporáneos. Incluye asesoramiento de raciones (50, 100, 150+ invitados), **prueba/degustación previa de sabores** y transporte refrigerado con montaje en sala coordinado con la finca, restaurante o cigarral.
+- **Antelación recomendada:** 1 a 3 meses (agenda abierta para bodas de primavera, verano y otoño 2027 en Toledo, Aranjuez, La Sagra, Ocaña y Madrid Sur).
+
+### 2.3 Tartas de Primera Comunión y Bautizo (Agenda Mayo 2027 abierta)
+- **URL:** https://abcsweetcake.com/tarta-comunion.html
+- **Qué incluye:** Tartas de comunión de uno o dos pisos personalizadas con el nombre del niño o niña, toppers dorados espejo o en madera natural, cálices en relieve, palomas, espigas, rosarios, tonos lavanda/marfil/rosa pastel y **diseños dobles para comuniones de hermanos o primos**, combinables con mesa dulce completa a juego.
+- **Antelación recomendada:** Para los sábados de **mayo 2027** se recomienda reservar fecha en **enero–febrero** (fuera de temporada alta: 3 a 4 semanas).
+
+### 2.4 Smash Cake para Fotógrafos Profesionales y Bento Cakes
+- **URL:** https://abcsweetcake.com/smash-cake-bento-fotografos.html
+- **Smash Cake (1.er cumpleaños y estudios fotográficos B2B):** Tartas diseñadas específicamente para sesiones de fotos de bebés de 12 meses, con bizcocho muy tierno y cobertura exterior extra cremosa y blanda (sin costras duras) estable bajo focos de estudio. Igualamos la paleta cromática exacta del decorado del fotógrafo (arcoíris pastel, safari, boho, bosque, Navidad) y ofrecemos acuerdos recurrentes para estudios profesionales.
+- **Bento Cakes (Lunch Box Cakes):** Mini tartas personalizadas de 2 a 4 raciones con caligrafía a mano, dedicatorias o ilustraciones minimalistas, disponibles solas en su cajita o en pack regalo junto a 6 cupcakes personalizados.
+- **Antelación recomendada:** 7 a 15 días (consultar urgencias de estudio en 72 h).
+
+### 2.5 Tartas Especiales: Sin Gluten, Sin Huevo, Sin Leche y Sin Azúcar Refinado
+- **URL:** https://abcsweetcake.com/tartas-sin-gluten.html
+- **Qué incluye:** Adaptación artesanal de bizcochos y rellenos para intolerancias o alergias alimentarias (**sin gluten, sin huevo, sin leche/sin lactosa, veganas** y versiones sin azúcar refinado añadido para bebés de 1 año en sesiones *Smash Cake*).
+- **Protocolo y aviso obligatorio sobre trazas:** En cada encargo especial se realiza limpieza exhaustiva de superficies, utensilios y maquinaria, y se elabora en momentos separados para evitar la contaminación cruzada. **Importante:** el obrador **NO es un espacio libre de alérgenos** (se trabaja habitualmente con gluten, huevo, leche y frutos secos), por lo que **la tarta siempre puede contener alguna traza**. En casos de celiaquía o alergia severa, se ruega consultar previamente por WhatsApp para valorar cada caso con responsabilidad.
+- **Antelación recomendada:** Al menos 15 días.
+
+### 2.6 El Rincón Dulce (Cupcakes Personalizados y Mesas Dulces)
+- **URL:** https://abcsweetcake.com/cupcakes-eventos.html
+- **Qué incluye:** Cajas regalo de cupcakes artesanales decorados (con papel de azúcar/logos corporativos para empresas, perlas doradas o modelados en fondant), vasitos individuales, galletas decoradas, *cake pops* y montaje integral de mesas dulces para bodas, comuniones, bautizos, cumpleaños y eventos de empresa.
+
+---
+
+## 3. Carta de Sabores Estrella del Obrador
+
+- **Bizcochos tiernos recién horneados:**
+  1. Vainilla Bourbon
+  2. Chocolate intenso
+  3. Tarta de zanahoria especiada con canela
+  4. Red Velvet aterciopelado
+  5. Limón suave (o limón con semillas de amapola)
+  6. Tarta de queso artesanal cremosa por encargo (clásica, pistacho, Lotus o chocolate blanco)
+- **Rellenos y cremas artesanas (equilibrados y nada empalagosos):**
+  1. Nata con fresas naturales
+  2. Ganache de chocolate belga (negro, con leche o blanco)
+  3. Crema Kinder
+  4. Dulce de leche
+  5. Crema de queso suave
+  6. Coulis / compota casera de frutos rojos
+  7. Praliné de avellana
+
+---
+
+## 4. Cobertura Geográfica Exacta de Entrega a Domicilio
+
+- **Recogida gratuita en obrador:** Esquivias (Toledo, 45221), bajo cita previa concertada por WhatsApp.
+- **Toledo capital y cinturón norte (A-42):** Toledo capital (*La Legua, Valparaíso, Buenavista, Santa Bárbara, Santa María de Benquerencia / Polígono, Casco Histórico y cigarrales*), Bargas, Olías del Rey y Mocejón.
+- **Comarca de La Sagra (Toledo):** Esquivias, Illescas (*casco y El Señorío de Illescas*), Seseña (*Seseña Viejo, Seseña Nuevo, Vallegrande y El Quiñón*), Yuncos, Yeles, Borox, Numancia de la Sagra, Pantoja, Cobeja, Añover de Tajo, Alameda de la Sagra, Villaseca de la Sagra, Yuncler, Villaluenga de la Sagra, Cabañas de la Sagra, Recas, Yunclillos, Magán, Lominchar, Cedillo del Condado, Palomeque, Chozas de Canales, Casarrubios del Monte (*Calypo-Fado*), Valmojado, Ugena y Carranque.
+- **Mesa de Ocaña y entorno sur (Toledo):** Ocaña, Yepes, Ontígola, Noblejas, Dosbarrios, Villarrubia de Santiago, Ciruelos, Villasequilla y Huerta de Valdecarábanos.
+- **Madrid Sur, Suroeste y Comarca de Las Vegas:** Parla (*Parla Este, Centro, La Laguna*), Valdemoro (*El Restón, El Caracol, Hospital, Estación*), Pinto (*La Tenería I y II, Parque Éboli*), Ciempozuelos (*Las Salinas, Parques Nacionales*), Aranjuez (*centro histórico, La Montaña, Real Cortijo de San Isidro, Las Infantas y fincas de bodas*), Casarrubuelos, Torrejón de la Calzada, Torrejón de Velasco, Griñón, Serranillos del Valle, El Álamo, San Martín de la Vega, Titulcia, Valdelaguna, Villaconejos, Colmenar de Oreja y Chinchón.
+
+---
+
+## 5. Prueba Social Real (4,9 / 5 en Google · 69 Reseñas)
+
+Aspectos más repetidos en las reseñas públicas de Google: **Sabor (19 menciones)**, **Diseño (9)**, **Cumpleaños (9)**, **Cupcakes (7)**, **Tarta de zanahoria (4)** y **Presentación (3)**.
+
+Muestra literal de opiniones reales publicadas por clientes en Google:
+- **Cristina (5/5):** *"Encargué una tarta de nata y fresas naturales y estaba buenísima!!!!! Nunca había probado una tarta tan buena! Muy jugosa y nada empalagosa!! Repetiré sin duda! Además muy rápido y los chicos súper amables!"*
+- **Tefy (5/5):** *"Encargué una tarta para mi hija y sólo puedo decir que espectacular, sabor brutal, el bizcocho muy esponjoso y la tarta absolutamente preciosa. Lo recomiendo al 200%, calidad precio perfecto."*
+- **Maria Santos garcia (5/5):** *"No tengo palabras para describir lo magníficas que fueron estas tartas !!! La amabilidad increíble. Espectacular, muchísimas gracias por hacer nuestro día tan especial"*
+- **Yas — Local Guide (5/5):** *"Todo perfecto, la chica muy amable y tiene mucha paciencia. La tarta quedó como la queríamos y estaba muy rica."*
+- **Carlota Ramos (5/5):** *"Encargamos la tarta de cumpleaños de mi hija junto con cupcakes y vasitos y todo super bien. Además a una semana de la fecha y sin problema. ¡Estaba todo riquísimo!"*
+- **Vanessa Rivera (5/5):** *"Desde un principio el trato fue excelente. Nos tuvieron el pedido en tiempo, a pesar de que lo encargamos tarde (para sus plazos). ¡Está exquisito. Repetiremos. Súper recomendable!"*
+
+---
+
+## 6. Directorio Completo de las 34 URLs Canónicas
+
+1. Portada y catálogo general: https://abcsweetcake.com/
+2. Tartas de cumpleaños y express 72h: https://abcsweetcake.com/tarta-cumpleanos.html
+3. Tartas de boda en Toledo, La Sagra y Madrid Sur: https://abcsweetcake.com/tarta-boda.html
+4. Tartas de comunión y bautizo 2027: https://abcsweetcake.com/tarta-comunion.html
+5. Cupcakes personalizados y mesas dulces: https://abcsweetcake.com/cupcakes-eventos.html
+6. Tartas sin gluten, sin huevo y sin leche: https://abcsweetcake.com/tartas-sin-gluten.html
+7. Smash Cake para fotógrafos y Bento Cakes: https://abcsweetcake.com/smash-cake-bento-fotografos.html
+8. Toledo capital y Bargas: https://abcsweetcake.com/tartas-personalizadas-toledo.html
+9. Illescas y El Señorío: https://abcsweetcake.com/tartas-personalizadas-illescas.html
+10. Aranjuez y La Montaña: https://abcsweetcake.com/tartas-personalizadas-aranjuez.html
+11. Parla: https://abcsweetcake.com/tartas-personalizadas-parla.html
+12. Valdemoro: https://abcsweetcake.com/tartas-personalizadas-valdemoro.html
+13. Pinto: https://abcsweetcake.com/tartas-personalizadas-pinto.html
+14. Seseña y El Quiñón: https://abcsweetcake.com/tartas-personalizadas-sesena.html
+15. Ciempozuelos: https://abcsweetcake.com/tartas-personalizadas-ciempozuelos.html
+16. Ocaña y Noblejas: https://abcsweetcake.com/tartas-personalizadas-ocana.html
+17. Yuncos: https://abcsweetcake.com/tartas-personalizadas-yuncos.html
+18. Yeles: https://abcsweetcake.com/tartas-personalizadas-yeles.html
+19. Borox: https://abcsweetcake.com/tartas-personalizadas-borox.html
+20. Esquivias (obrador): https://abcsweetcake.com/tartas-personalizadas-esquivias.html
+21. Numancia de la Sagra: https://abcsweetcake.com/tartas-personalizadas-numancia-de-la-sagra.html
+22. Pantoja: https://abcsweetcake.com/tartas-personalizadas-pantoja.html
+23. Cobeja: https://abcsweetcake.com/tartas-personalizadas-cobeja.html
+24. Añover de Tajo: https://abcsweetcake.com/tartas-personalizadas-anover-de-tajo.html
+25. Yepes y Ontígola: https://abcsweetcake.com/tartas-personalizadas-yepes-ontigola.html
+26. Casarrubuelos: https://abcsweetcake.com/tartas-personalizadas-casarrubuelos.html
+27. Ugena: https://abcsweetcake.com/tartas-personalizadas-ugena.html
+28. Torrejón de la Calzada: https://abcsweetcake.com/tartas-personalizadas-torrejon-calzada.html
+29. Griñón: https://abcsweetcake.com/tartas-personalizadas-grinon.html
+30. Serranillos del Valle: https://abcsweetcake.com/tartas-personalizadas-serranillos-valle.html
+31. Carranque: https://abcsweetcake.com/tartas-personalizadas-carranque.html
+32. Palomeque: https://abcsweetcake.com/tartas-personalizadas-palomeque.html
+33. Cedillo del Condado: https://abcsweetcake.com/tartas-personalizadas-cedillo-condado.html
+34. Yuncler: https://abcsweetcake.com/tartas-personalizadas-yuncler.html
